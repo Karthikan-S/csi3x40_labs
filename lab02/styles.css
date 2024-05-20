@@ -1,0 +1,20 @@
+.fullname, .subhead {
+    text-align: center;
+}
+ 
+.role {
+    font-style: italic;
+}
+
+.name {
+    font-size: large;
+}
+
+.subtitle {
+    border-bottom: solid;
+}
+
+.content {
+    padding-left: 200px;
+    padding-right: 200px;
+}
